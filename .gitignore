@@ -1,0 +1,6 @@
+# Code editor related
+pyrightconfig.json
+
+# Python related
+dash/__pycache__
+.venv
